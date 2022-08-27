@@ -1,0 +1,345 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Patchaporn's Abilities</title>
+</head>
+
+<body>
+    <!-- Menu -->
+    <hr>
+    <table style="width:100%; text-align: center">
+        <tr>
+            <td>
+                <h3><a href="index.html">Profile</a></h3>
+            </td>
+            <td>
+                <h3><a href="experiences.html">Experiences</a></h3>
+            </td>
+            <td>
+                <h3><a href="abilities.html">Abilities</a></h3>
+            </td>
+            <td>
+                <h3><a href="projects.html">Projects</a></h3>
+            </td>
+            <td>
+                <h3><a href="contact.html">Contact</a></h3>
+            </td>
+        </tr>
+    </table> 
+    <hr> 
+    <h1 style="text-align: center; font-family: cursive;">Abilities</h1> 
+    <!-- Reference: Aclonica Font -->
+    <link href='https://fonts.googleapis.com/css?family=Aclonica'rel='stylesheet'> 
+    <h4 style="text-align: center; font-family: Aclonica; font-weight:normal"><i>
+        "Ability is what you are capable of doing. Motivation determines what you do. 
+        Attitude determines how well you do it"</i></h4>
+    <h5 style="text-align: center; font-family: Aclonica; font-weight:normal">
+            --- Lou Holtz ---</h5>
+    <h2 style="text-align: center;">Skills</h2> 
+    <table style="margin-left: auto; margin-right: auto" cellspacing="30"> <!--- border="1">-->
+        <tr>
+            <td>
+                <table>
+                    <tr>
+                        <td>HTML</td>
+                        <!--Emoji Windows: WIN+. or WIN+; | MAC: ^+Command+space-->
+                        <td>⭐⭐⭐⭐⭐</td>
+                    </tr>
+                    <tr>
+                        <td>CSS</td>
+                        <td>⭐⭐⭐⭐⭐</td>
+                    </tr>
+                    <tr>
+                        <td>JavaScript</td>
+                        <td>⭐⭐⭐⭐</td>
+                    </tr>      
+                    <tr>
+                        <td>Photography</td>
+                        <td>⭐⭐⭐⭐</td>
+                    </tr>    
+                </table>               
+            </td>
+            <td>
+                <table>
+                    <tr>
+                        <td>Node.js</td>
+                        <td>⭐⭐⭐</td>
+                    </tr>
+                    <tr>
+                        <td>SQL</td>
+                        <td>⭐⭐⭐⭐⭐</td>
+                    </tr>
+                    <tr>
+                        <td>NoSql</td>
+                        <td>⭐⭐⭐⭐</td>
+                    </tr>      
+                    <tr>
+                        <td>Computer Graphics</td>
+                        <td>⭐⭐⭐⭐⭐</td>
+                    </tr>    
+                </table>   
+            </td>
+        </tr>
+    </table>
+</body>
+
+</html>
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Patchaporn's Contact</title>
+</head>
+
+<body>
+    <!-- Menu -->
+    <hr>
+    <table style="width:100%; text-align: center">
+        <tr>
+            <td>
+                <h3><a href="index.html">Profile</a></h3>
+            </td>
+            <td>
+                <h3><a href="experiences.html">Experiences</a></h3>
+            </td>
+            <td>
+                <h3><a href="abilities.html">Abilities</a></h3>
+            </td>
+            <td>
+                <h3><a href="projects.html">Projects</a></h3>
+            </td>
+            <td>
+                <h3><a href="contact.html">Contact</a></h3>
+            </td>
+        </tr>
+    </table>
+    <hr>
+    <h1 style="text-align: center; font-family: cursive;">Contact</h1>
+    <table style="width:100%; text-align: center">
+        <tr>
+            <td>
+                <!-- Form: https://developer.mozilla.org/en-US/docs/Web/HTML/Element#forms -->
+                <form action="mailto:patchaporn.sith@bu.ac.th" method="POST" enctype="text/plain">
+                    <label for="yourName">Your Name:</label>
+                    <input type="text" id="yourName" name="yourName" value="">
+                    <br>
+                    <label for="yourEmail">Your Email:</label>
+                    <input type="email" id="yourEmail" name="yourEmail" value="">
+                    <br>
+                    <br />
+                    <label for="yourMessage">Your Message:</label>
+                    <br>
+                    <textarea id="yourMessage" name="yourMessage" cols="30" rows="10"></textarea>
+                    <br>
+                    <input type="submit" name="">
+                </form>
+
+                <!--Reference Social Media Icons of Awesome 4-->
+                <link rel="stylesheet"
+                    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+                <p><a href="https://www.facebook.com/waizonne" class="fa fa-facebook-square" target="_blank"
+                        style="font-size: 40px; color: rgb(7, 114, 255);"></a>  
+                    <a href="https://www.instagram.com/waizonne" class="fa fa-instagram" target="_blank"
+                        style="font-size: 40px; color: brown;"></a>  
+                    <a href="https://twitter.com/waizonne" class="fa fa-twitter" target="_blank"
+                        style="font-size: 40px; color: rgb(63, 185, 255);"></a>
+                </p>
+                <p>Website: <a href="https://ukham.com/">Siththichoi.com</a></p>
+                <p>Email: <a href="mailto:abhisit_u@bu.ac.th">Patchaporn.sith@bu.ac.th</a></p>
+        </tr>
+    </table>
+</body>
+
+</html>
+<!DOCTYPE html>
+<head>
+    <meta charset="UTF-8">
+    <title>Patchaporn's Experiences</title>
+</head>
+<body>
+    <!-- Menu -->
+    <hr>
+    <table style="width:100%; text-align: center">
+        <tr>
+            <td>
+                <h3><a href="index.html">Profile</a></h3>
+            </td>
+            <td>
+                <h3><a href="experiences.html">Experiences</a></h3>
+            </td>
+            <td>
+                <h3><a href="abilities.html">Abilities</a></h3>
+            </td>
+            <td>
+                <h3><a href="projects.html">Projects</a></h3>
+            </td>
+            <td>
+                <h3><a href="contact.html">Contact</a></h3>
+            </td>
+        </tr>
+    </table> 
+    <hr> 
+    <h1 style="text-align: center; font-family: cursive;">Experiences</h1> 
+    <!-- Reference: Aclonica Font -->
+    <link href='https://fonts.googleapis.com/css?family=Aclonica'rel='stylesheet'> 
+    <h4 style="text-align: center; font-family: Aclonica; font-weight:normal"><i>
+        "The Only Source of Knowledge is Experiences"</i></h4>
+        <h5 style="text-align: center; font-family: Aclonica; font-weight:normal">
+            --- Albert Einstein ---</h5> 
+    <table style="margin-left: auto; margin-right: auto">
+        <tbody>
+            <tr>
+              <td>
+                <h2>Teaching Experiences</h2>
+                <ul type="circle">
+                    <li>Multimedia Programming</li>
+                    <li>Advanced SQL</li>
+                    <li>.NET Programming</li>
+                </ul>
+                <h2>Certificate</h2>
+                <ul type="disc">
+                    <li>IBM Full Stack Software Developer Professional</li>
+                    <li>Google Data Analytics Professional</li>
+                    <li>DevOps on AWS Specialization</li>
+                    <li>SQL Advanced</li>
+                </ul>
+                <h2>Research Interests</h2>
+                <ol>
+                    <li>Big Data</li>
+                    <li>Data Visualization</li>
+                    <li>Artificial Intelligence and Data Science</li>
+                </ol>                
+              </td>
+            </tr>
+          </tbody>
+        </table>
+
+
+    
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Patchaporn Profile Site</title>
+    <link href='https://fonts.googleapis.com/css?family=Aclonica'rel='stylesheet'>
+    <!--line 7,18: Exeternal Resource Link  
+        font-family Ref:https://www.w3schools.com/whatis/tryit.asp?font=Aclonica -->
+</head>
+
+<body>
+    <!-- Header -->
+    <!-- Ref:https://developer.mozilla.org/en-US/docs/Web/CSS/font-family-->
+    <h1 style="text-align: center; font-family: cursive;">Profile</h1>
+    <h2 style="text-align: center; font-family: cursive; font-weight:normal">
+        I'm Patchaporn Sithichoi</h2>  
+    <h4 style="text-align: center; font-family: Aclonica ; font-weight:normal"><i>
+        "One night miracle."</i></h4>    
+    <hr>
+    <!-- Menu -->
+    <table style="width:100%; text-align: center">
+        <tr>
+            <td>
+                <h3><a href="index.html">Profile</a></h3>
+            </td>
+            <td>
+                <h3><a href="experiences.html">Experiences</a></h3>
+            </td>
+            <td>
+                <h3><a href="abilities.html">Abilities</a></h3>
+            </td>
+            <td>
+                <h3><a href="projects.html">Projects</a></h3>
+            </td>
+            <td>
+                <h3><a href="contact.html">Contact</a></h3>
+            </td>
+        </tr>
+    </table>  
+    <hr>
+    <table>
+        <tr>
+            <th style="width: 33.33%; vertical-align: top;"><h2 >About me</h2>
+                <p style="font-weight:normal; text-align: justify;">&nbsp;&nbsp;&nbsp;
+                    More 5 Years of Experienced Developer with Front-end and Back-end .NET programming in the information technology and service industry. Skilled in HTML, CSS, Javascript, Angular, React, MVC, C# and ORACLE, SQL database tools. A strong engineering professional with a Bachelor of Engineering (BE) focused on Computer Engineering from Bangkok University.
+                </p>
+                <p>Website: <a href="https://www.Sithichoi.com/">Sithichoi.com</a></p>
+                <p>Email: <a href="mailto: Patchaporn@siththichoi.com">Patchaporn@siththichoi.com</a></p>
+            </th>
+            <th style="width: 33.33%; vertical-align: top;">
+                <!--Crop Circle Image: https://crop-circle.imageonline.co/-->
+                <p><img src="images/profile.png" alt="Abhisit Ukham" style="width: 60%;"></p>
+                </th>
+                <th style="width: 33.33%; vertical-align: top; text-align: left;"><h2>Details</h2>
+                <p>Name:</p>
+                    <p style="font-weight:normal;">Patchaporn Siththichoi</p>
+                <p>Location:</p>
+                    <p style="font-weight:normal;">Thailand</p>
+                    <p>Social Media:</p>
+                    <!--Reference Social Media Icons-->
+                    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">    
+                    <!--Icons Class Reference: https://www.w3schools.com/icons/icons_reference.asp-->
+                    <p><a href="https://www.facebook.com/mercury.notyours" class="fa fa-facebook-square" target="_blank" style="font-size: 40px; color: rgb(7, 114, 255);"></a>
+                        <a href="https://www.instagram.com/winterbebearr/" class="fa fa-instagram" target="_blank" style="font-size: 40px; color: brown;"></a>
+                        <a href="https://twitter.com/damntoworld" class="fa fa-twitter" target="_blank" style="font-size: 40px; color: rgb(63, 185, 255);"></a>
+                    </p>
+            </th>
+        </tr>
+    </table>
+    <hr>
+    <p style="text-align: center;">© 2022 Patchaporn Sithichoi</p>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Profile - Patchaporn Profile</title>
+</head>
+<body>
+    <!-- Menu -->
+    <hr>
+    <table style="width:100%; text-align: center">
+        <tr>
+            <td>
+                <h3><a href="index.html">Profile</a></h3>
+            </td>
+            <td>
+                <h3><a href="experiences.html">Experiences</a></h3>
+            </td>
+            <td>
+                <h3><a href="abilities.html">Abilities</a></h3>
+            </td>
+            <td>
+                <h3><a href="projects.html">Projects</a></h3>
+            </td>
+            <td>
+                <h3><a href="contact.html">Contact</a></h3>
+            </td>
+        </tr>
+    </table> 
+    <hr> 
+    <h1 style="text-align: center; font-family: cursive;">Projects</h1> 
+    <!-- Reference: Aclonica Font -->
+    <link href='https://fonts.googleapis.com/css?family=Prompt'rel='stylesheet'> 
+    <h4 style="text-align: center; font-family: Prompt; font-weight:normal"><i>
+        "การออกแบบและสร้างอุปกรณ์เครื่องมือควบคุมเครื่องใช้ไฟฟ้าในแต่ละส่วนของห้องโรงแรม โดยสามารถควบคุมได้จากภายในห้องและจากส่วนกลาง"</i></h4>
+        <h5 style="text-align: center; font-family: Aclonica; font-weight:normal">
+            --- Smart Group | BUEN 20 ---</h5>   
+ 
+        <p style="text-align: center;">
+        <b>Electrical appliances in smart hotel by web application</b></p>
+            
+        <!-- YouTube Embeded Link: https://youtu.be/603Hc7ycIS0--> 
+        <p style="text-align: center;"><iframe width="560" height="315"  
+            src="https://www.youtube.com/embed/603Hc7ycIS0" 
+            title="YouTube video player" frameborder="0" 
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; 
+            gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+</body>
+</html>
